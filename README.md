@@ -26,7 +26,7 @@ Your modern travel companion – find unique stays, host your own, and enjoy a s
 |---------|-------------|
 | 📜 Browse Stays ✅ | Explore properties with high-quality images, detailed descriptions, and location info. |
 | ➕ Create Listings ✅ | Add your own stays with title, description, price, and image uploads (Cloudinary + Multer). |
-| 🖼 Image Galleries ✅ | Each listing comes with a responsive gallery and preview. |
+| 🖼 Image Galleries✅ | Each listing comes with a responsive gallery and preview. |
 
 ### 💬 Reviews & Ratings  
 | Feature | Description |
@@ -39,7 +39,7 @@ Your modern travel companion – find unique stays, host your own, and enjoy a s
 |---------|-------------|
 | 🔐 Authentication ✅ | Secure local authentication with Passport.js and hashed passwords. |
 | 🛡 Authorization ✅ | Protected routes for editing/deleting your own listings. |
-| 💼 Profiles | View user profiles for hosts and guests (planned). |
+| 💼 Profiles ✅| View user profiles for hosts and guests (planned). |
 
 ---
 
