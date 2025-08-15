@@ -25,7 +25,6 @@ Your modern travel companion – find unique stays, host your own, and enjoy a s
 | Feature | Description |
 |---------|-------------|
 | 📜 Browse Stays ✅ | Explore properties with high-quality images, detailed descriptions, and location info. |
-| 🏷 Category Filters ✅ | Search by category — Mountains ⛰, Castles 🏰, Farms 🌾, Arctic ❄, and more. |
 | ➕ Create Listings ✅ | Add your own stays with title, description, price, and image uploads (Cloudinary + Multer). |
 | 🖼 Image Galleries ✅ | Each listing comes with a responsive gallery and preview. |
 
