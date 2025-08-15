@@ -1,11 +1,16 @@
 # 🏡 AIRBNB — Explore, Host, and Connect  
-Your modern travel companion – find unique stays, host your own, and enjoy a seamless booking experience.
 
-![Status](https://img.shields.io/badge/Status-Active%20Development-orange)
-![Stack](https://img.shields.io/badge/Node.js-Express-MongoDB-blue)
-![Frontend](https://img.shields.io/badge/View%20Engine-EJS-informational)
-![Auth](https://img.shields.io/badge/Auth-Passport.js-success)
-![Uploads](https://img.shields.io/badge/Uploads-Cloudinary%20%2B%20Multer-9cf)
+Your modern travel companion – find unique stays, host your own, and enjoy a seamless booking experience.  
+
+---
+
+![Status](https://img.shields.io/badge/Status-Active%20Development-orange?style=for-the-badge)&nbsp;
+![View Engine](https://img.shields.io/badge/View%20Engine-EJS-blue?style=for-the-badge)&nbsp;
+![Auth](https://img.shields.io/badge/Auth-Passport.js-brightgreen?style=for-the-badge)&nbsp;
+![Uploads](https://img.shields.io/badge/Uploads-Cloudinary%20+%20Multer-5DADE2?style=for-the-badge)&nbsp;
+![Database](https://img.shields.io/badge/Database-MongoDB-4DB33D?style=for-the-badge)&nbsp;
+![Backend](https://img.shields.io/badge/Backend-Node.js%20+%20Express.js-339933?style=for-the-badge)
+
 
 ---
 
