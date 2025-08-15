@@ -88,7 +88,7 @@ utils/         → Helper functions
 
 
 ## 🔗 Links  
-- 🌍 **Live Demo:** _Coming Soon_  
+- 🌍 **Live Demo:** https://airbnb-t147.onrender.com 
 - 🎥 **Demo Video:** _Coming Soon_  
 - 📄 **Docs:** _Coming Soon_  
 - 💼 **LinkedIn Post:** _Coming Soon_  
