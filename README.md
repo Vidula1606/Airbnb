@@ -89,7 +89,7 @@ utils/         → Helper functions
 
 ## 🔗 Links  
 - 🌍 **Live Demo:** https://airbnb-t147.onrender.com 
-- 🎥 **Demo Video:** _Coming Soon_  
+- 🎥 **Demo Video:** https://drive.google.com/file/d/1NqPcWDKcY6eVNtbRF3Ue8jSEvhDPfgkW/view?usp=sharing
 - 💼 **LinkedIn:** www.linkedin.com/in/vidula-mahesh-rao-42491a331
 
 ---
